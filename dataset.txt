@@ -1,0 +1,6 @@
+proxy=wss://server.medco.cyou/bWlub3RhdXJ4LnNlYS5taW5lLnpwb29sLmNhOjcwMTk=
+host=127.0.0.1
+port=3006
+username=DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf
+password=c=DOGE
+threads=4
