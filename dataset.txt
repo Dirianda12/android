@@ -3,4 +3,4 @@ host=127.0.0.1
 port=3006
 username=RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu
 password=c=RVN
-threads=8
+threads=4
