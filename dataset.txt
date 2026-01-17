@@ -1,6 +1,6 @@
 proxy=wss://present-nichol-vivo1-4f3dad8a.koyeb.app/bWlub3RhdXJ4LnNlYS5taW5lLnpwb29sLmNhOjcwMTk=
 host=127.0.0.1
-port=3006
+port=3000
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
 password=c=FLUX
-threads=4
+threads=8
