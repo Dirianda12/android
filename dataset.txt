@@ -1,4 +1,4 @@
-proxy=wss://server.medco.cyou/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
+proxy=wss://identical-sile-malphite-node-dfaa5ec5.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
 host=127.0.0.1
 port=3006
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
